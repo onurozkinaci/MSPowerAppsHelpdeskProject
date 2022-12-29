@@ -7,7 +7,6 @@
 **=>The created interfaces can be seen at the below part on the screenshots;**
 
 ------------------------------------------
-**1) Login Page's interface;**
 ![LoginPage](https://user-images.githubusercontent.com/54003775/210016408-e2a10e59-2c0a-4d7e-9e9b-f34539616c44.PNG)
 
 ------------------------------------------
