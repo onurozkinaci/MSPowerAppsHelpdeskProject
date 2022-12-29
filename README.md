@@ -34,7 +34,8 @@
 
 ![updatedTicket](https://user-images.githubusercontent.com/54003775/210016956-2c7995be-51d6-49b4-a66c-03499a6c3362.PNG)
 
-
+------------------------------------------
+*Additional Information: Both zip folder and the files inside this folder are shared seperately in this repository.*
 
 
 
