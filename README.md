@@ -7,10 +7,13 @@
 **=>The created interfaces can be seen at the below part on the screenshots;**
 
 ------------------------------------------
+**1) Login Page's interface;**
+
 ![LoginPage](https://user-images.githubusercontent.com/54003775/210016408-e2a10e59-2c0a-4d7e-9e9b-f34539616c44.PNG)
 
 ------------------------------------------
 **2) Created tickets can be shown by user and admin after login occurs;**
+
 ![CreatedTicketsPage](https://user-images.githubusercontent.com/54003775/210016428-702c10a1-5f8a-46fe-b30d-0e0993e0ba69.PNG)
 
 ------------------------------------------
@@ -28,6 +31,7 @@
 
 ------------------------------------------
 **5) Changes for the updated ticket can be seen at the My Help Desk Tickets page as below;**
+
 ![updatedTicket](https://user-images.githubusercontent.com/54003775/210016956-2c7995be-51d6-49b4-a66c-03499a6c3362.PNG)
 
 
